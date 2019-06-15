@@ -63,6 +63,19 @@
 
     </dependencies>
 
+    <scm>
+        <url>https://github.com/glinsoft/thetis-cache</url>
+        <connection>https://github.com/glinsoft/thetis-cache.git</connection>
+        <developerConnection>https://github.com/glinsoft/thetis-cache</developerConnection>
+    </scm>
+    <developers>
+        <developer>
+            <name>高广林</name>
+            <email>guanglingao@yeah.net</email>
+            <url>https://github.com/glinsoft/thetis-cache</url>
+        </developer>
+    </developers>
+
 
 
 </project>
