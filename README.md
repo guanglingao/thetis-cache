@@ -19,7 +19,7 @@
 
     ````
     <dependency>
-        <groupId>com.zhisland</groupId>
+        <groupId>com.github.glinsoft</groupId>
         <artifactId>thetis-cache</artifactId>
         <version>3.1.3</version>
     </dependency>

@@ -1,13 +1,13 @@
-package com.github.thetiscache.annotation;
+package com.glinsoft.thetiscache.annotation;
 
-import com.github.thetiscache.concurrent.DataCoordinate;
-import com.github.thetiscache.concurrent.EhCacheEvictEvent;
-import com.github.thetiscache.context.ContextStorage;
-import com.github.thetiscache.ehcache.EhCacheManagerConfiguration;
-import com.github.thetiscache.ehcache.EhCacheStorage;
-import com.github.thetiscache.redis.RedisStorage;
-import com.github.thetiscache.redis.RedisTemplateConfiguration;
-import com.github.thetiscache.session.SessionStorage;
+import com.glinsoft.thetiscache.concurrent.DataCoordinate;
+import com.glinsoft.thetiscache.concurrent.EhCacheEvictEvent;
+import com.glinsoft.thetiscache.context.ContextStorage;
+import com.glinsoft.thetiscache.ehcache.EhCacheManagerConfiguration;
+import com.glinsoft.thetiscache.ehcache.EhCacheStorage;
+import com.glinsoft.thetiscache.redis.RedisStorage;
+import com.glinsoft.thetiscache.redis.RedisTemplateConfiguration;
+import com.glinsoft.thetiscache.session.SessionStorage;
 import org.springframework.context.annotation.Import;
 
 import java.lang.annotation.*;

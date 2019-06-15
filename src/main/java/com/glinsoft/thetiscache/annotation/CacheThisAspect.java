@@ -1,8 +1,8 @@
-package com.github.thetiscache.annotation;
+package com.glinsoft.thetiscache.annotation;
 
 
-import com.github.thetiscache.concurrent.DataCoordinate;
-import com.github.thetiscache.console.Console;
+import com.glinsoft.thetiscache.concurrent.DataCoordinate;
+import com.glinsoft.thetiscache.console.Console;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
@@ -25,7 +25,7 @@ public class CacheThisAspect {
 
 
 
-    @Pointcut(value = "execution(@com.github.thetiscache.annotation.CacheThis * * (..))")
+    @Pointcut(value = "execution(@com.glinsoft.thetiscache.annotation.CacheThis * * (..))")
     public void cache() {
     }
 

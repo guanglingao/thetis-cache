@@ -1,4 +1,4 @@
-package com.github.thetiscache.annotation;
+package com.glinsoft.thetiscache.annotation;
 
 
 import java.lang.annotation.ElementType;

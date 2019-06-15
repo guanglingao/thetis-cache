@@ -1,4 +1,4 @@
-package com.github.thetiscache.redis;
+package com.glinsoft.thetiscache.redis;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

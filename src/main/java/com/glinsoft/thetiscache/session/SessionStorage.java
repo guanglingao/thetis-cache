@@ -1,9 +1,9 @@
-package com.github.thetiscache.session;
+package com.glinsoft.thetiscache.session;
 
 
-import com.github.thetiscache.console.Console;
-import com.github.thetiscache.ehcache.EhCacheStorage;
-import com.github.thetiscache.redis.RedisStorage;
+import com.glinsoft.thetiscache.console.Console;
+import com.glinsoft.thetiscache.ehcache.EhCacheStorage;
+import com.glinsoft.thetiscache.redis.RedisStorage;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.annotation.Order;

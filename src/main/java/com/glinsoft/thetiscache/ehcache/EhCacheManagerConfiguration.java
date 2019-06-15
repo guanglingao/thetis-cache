@@ -1,4 +1,4 @@
-package com.github.thetiscache.ehcache;
+package com.glinsoft.thetiscache.ehcache;
 
 import org.ehcache.CacheManager;
 import org.ehcache.config.builders.*;

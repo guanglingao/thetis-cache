@@ -1,4 +1,4 @@
-package com.github.thetiscache;
+package com.glinsoft.thetiscache;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

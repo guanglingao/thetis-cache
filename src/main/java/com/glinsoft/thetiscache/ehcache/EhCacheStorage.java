@@ -1,7 +1,7 @@
-package com.github.thetiscache.ehcache;
+package com.glinsoft.thetiscache.ehcache;
 
 
-import com.github.thetiscache.concurrent.EhCacheEvictEvent;
+import com.glinsoft.thetiscache.concurrent.EhCacheEvictEvent;
 import org.ehcache.Cache;
 import org.ehcache.CacheManager;
 import org.ehcache.event.EventFiring;

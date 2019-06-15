@@ -1,7 +1,7 @@
-package com.github.thetiscache.concurrent;
+package com.glinsoft.thetiscache.concurrent;
 
-import com.github.thetiscache.console.Console;
-import com.github.thetiscache.redis.RedisStorage;
+import com.glinsoft.thetiscache.console.Console;
+import com.glinsoft.thetiscache.redis.RedisStorage;
 import org.ehcache.event.CacheEvent;
 import org.ehcache.event.CacheEventListener;
 import org.ehcache.event.EventType;

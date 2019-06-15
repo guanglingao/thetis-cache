@@ -1,4 +1,4 @@
-package com.github.thetiscache.console;
+package com.glinsoft.thetiscache.console;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
