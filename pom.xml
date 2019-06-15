@@ -63,6 +63,17 @@
 
     </dependencies>
 
+
+    <distributionManagement>
+        <repository>
+            <id>sonatype-nexus-snapshots</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+        </repository>
+        <snapshotRepository>
+            <id>sonatype-nexus-staging</id>
+            <url>https://oss.sonatype.org/content/repositories/staging/</url>
+        </snapshotRepository>
+    </distributionManagement>
     <scm>
         <url>https://github.com/glinsoft/thetis-cache</url>
         <connection>https://github.com/glinsoft/thetis-cache.git</connection>
